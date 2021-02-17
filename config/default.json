@@ -1,0 +1,6 @@
+{
+  "mongoURI":"mongodb+srv://itprocheckin:<password>@id8-mongo-cluster.tyl0w.mongodb.net/itprocheckin?retryWrites=true&w=majority",
+  "jwtSecret": "mysecretisnotyours",
+  "githubClientId": "<client id>",
+  "githubSecret": "<secret>"
+}
