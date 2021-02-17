@@ -10,7 +10,7 @@ const User = require("../../models/User");
 
 const passport = require("passport");
 const mongoose = require("mongoose");
-const db = require("../../config/keys.js").mongoURI;
+//const db = require("../../config/keys.js").mongoURI;
 const nodemon = require("nodemon");
 
 router.get("/test", (req, res) => res.json({ msg: "Profile Works..." }));
