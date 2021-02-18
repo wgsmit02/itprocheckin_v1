@@ -1,6 +1,0 @@
-{
-  "mongoURI":"mongodb+srv://itprocheckin:ZqFW3KXCuYpiWvac@id8-mongo-cluster.tyl0w.mongodb.net/itprocheckin?retryWrites=true&w=majority",
-  "jwtSecret": "mysecretisnotyours",
-  "githubClientId": "1274c3149a8dc643f916",
-  "githubSecret": "2afeaeef05959258719dc4b698009d5a209d07c7"
-}
